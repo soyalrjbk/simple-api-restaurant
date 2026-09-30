@@ -2,7 +2,7 @@
 
 A meal search app where you type in the name of a dish, and it shows you a picture of it, its category, what cuisine it's from, and the instructions for making it. It uses TheMealDB API to get the recipe data.
 
-**Link to project:** https://restaurant-api-project.netlify.app
+**Live Demo:** https://restaurant-api-project.netlify.app
 
 [![Screenshot-2026-09-29-at-7-33-31-AM.png](https://i.postimg.cc/YChjZHCH/Screenshot-2026-09-29-at-7-33-31-AM.png)](https://postimg.cc/tsGXn86S)
 
